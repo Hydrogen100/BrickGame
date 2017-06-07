@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=x\ y\ color
+comment0.target=circleSpawn(int,\ int,\ java.awt.Color)
+comment1.params=
+comment1.target=void\ newSpawn()
+numComments=2
